@@ -1,0 +1,10 @@
+# Datasets
+data/
+
+# Python Shit
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
